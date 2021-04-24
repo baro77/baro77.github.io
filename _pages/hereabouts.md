@@ -31,5 +31,5 @@ yKwyrUXc6zATArukbEIpZDK2/dcipKq8jj36zboI
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-So these are the technical merits awarded to who deserves them; instead I'm the only guilty one about posts contents! :smile:
+So these are the technical merits awarded to who deserves them; instead I'm the only guilty one about posts contents! ;)
 

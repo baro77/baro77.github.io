@@ -6,7 +6,7 @@ permalink: /hereabouts/
 
 Web and CMS are definitely not my field. If you like the look & feel of this space the merit is all of [Reverie](https://github.com/amitmerchant1990/reverie): as stated by its creator,
 
-> Reverie is a Jekyll-powered theme which is simple and opinionated. It's actually a fork of jekyll-now with some additional features and personal touches which I've implemented to suit my needs for my blog.
+> _Reverie is a Jekyll-powered theme which is simple and opinionated. It's actually a fork of jekyll-now with some additional features and personal touches which I've implemented to suit my needs for my blog._
 
 It also fits very easily with [GitHub pages](https://pages.github.com): a must for me, given that "www.byBaro.it" is a [GitHub page with custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
 

@@ -4,48 +4,32 @@ title: Hereabouts
 permalink: /hereabouts/
 ---
 
-### Step 1) Fork Reverie to your User Repository
+Web and CMS are definitely not my field. If you like the look & feel of this space the merit is all of [Reverie](https://github.com/amitmerchant1990/reverie): as stated by its creator,
 
-Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
+> Reverie is a Jekyll-powered theme which is simple and opinionated. It's actually a fork of jekyll-now with some additional features and personal touches which I've implemented to suit my needs for my blog.
 
-Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
+It also fits very easily with [GitHub pages](with https://pages.github.com): a must for me, given that "www.byBaro.it" is a [GitHub page with custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+Domain MX is instead handled by [ProtonMail](https://protonmail.com), so if you prefer encrypted communications you can write me at _my name dot my surname at bybaro dot it_ from a Free Proton Account or explicitly using my (PGP public key)[publickey.bybaro.asc] (in case of critical stuff, please check pubkey file hash on my LinkedIn and/or my Twitter, as an extra precaution):
 
-### Step 2) Customize and view your site
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: OpenPGP.js v4.10.8
+Comment: https://openpgpjs.org
 
-Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
-
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
-
-### Step 3) Publish your first blog post
-
-Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
-
-> You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
-
-## Using Categories in Reverie
-
-You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
-
-For adding single category:
-
-```md
-categories: JavaScript
+xjMEYGximBYJKwYBBAHaRw8BAQdAmtVsJm3qxWdw3umDlb2JXUCq+/WdpNRX
+iSg6mYnziMbNN2FuZHJlYS5iYXJvbnRpbmlAYnliYXJvLml0IDxhbmRyZWEu
+YmFyb250aW5pQGJ5YmFyby5pdD7CjwQQFgoAIAUCYGximAYLCQcIAwIEFQgK
+AgQWAgEAAhkBAhsDAh4BACEJEI3+aYcN5IGlFiEE/AkLdi2ofdwvbL48jf5p
+hw3kgaWg5AD/XLV7knTJJDCWnE74/LBKf8HEa2pi5aoElZxuXwH9xxMBAM5B
+TlGmJS9I1D2qgh2V53PKZPQO+nP/ynMz/yEOX3YNzjgEYGximBIKKwYBBAGX
+VQEFAQEHQGE1v7l4LMaCGsEz0+zMW9g86WYieHaCO3l3bIhm5yoGAwEIB8J4
+BBgWCAAJBQJgbGKYAhsMACEJEI3+aYcN5IGlFiEE/AkLdi2ofdwvbL48jf5p
+hw3kgaUqNwD7B1xsPBI7t35YNQrZQQ5aJml3ckwvruwO9OL/20TmmC4A/0p0
+yKwyrUXc6zATArukbEIpZDK2/dcipKq8jj36zboI
+=uEkQ
+-----END PGP PUBLIC KEY BLOCK-----
 ```
 
-For adding multiple categories:
+So these are the technical merits awarded to who deserves them; instead I'm the only guilty one about posts contents! :smile:
 
-```md
-categories: [PHP, Laravel]
-```
-
-The contegorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
-
-## RSS
-
-The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be found at <https://yourgithubusername.github.io/feed>. You can see the example RSS feed over [here](https://www.amitmerchant.com/reverie/feed).
-
-## Sitemap
-
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).

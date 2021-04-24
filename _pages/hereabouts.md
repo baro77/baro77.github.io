@@ -8,9 +8,9 @@ Web and CMS are definitely not my field. If you like the look & feel of this spa
 
 > Reverie is a Jekyll-powered theme which is simple and opinionated. It's actually a fork of jekyll-now with some additional features and personal touches which I've implemented to suit my needs for my blog.
 
-It also fits very easily with [GitHub pages](with https://pages.github.com): a must for me, given that "www.byBaro.it" is a [GitHub page with custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
+It also fits very easily with [GitHub pages](https://pages.github.com): a must for me, given that "www.byBaro.it" is a [GitHub page with custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
 
-Domain MX is instead handled by [ProtonMail](https://protonmail.com), so if you prefer encrypted communications you can write me at _my name dot my surname at bybaro dot it_ from a Free Proton Account or explicitly using my (PGP public key)[https://publickey.bybaro.asc] (in case of critical stuff, please check pubkey file hash on my LinkedIn and/or my Twitter, as an extra precaution):
+Domain MX is instead handled by [ProtonMail](https://protonmail.com), so if you prefer encrypted communications you can write me at _my name dot my surname at bybaro dot it_ from a Free Proton Account or explicitly using my [PGP public key](https://publickey.bybaro.asc) (in case of critical stuff, please check pubkey file hash on my LinkedIn and/or my Twitter, as an extra precaution):
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----

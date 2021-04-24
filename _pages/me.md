@@ -4,9 +4,19 @@ title: Me
 permalink: /me/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+## aka Andrea Barontini
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Hi, thanks for reaching out to me! Condensed in just one headline, I'm an IT and networking professional, crypto & blockchain enthusiastic, science and tech hungry guy. 
+
+A bit longer, I'm one of those late-70ies guys grown up with C=64 and Lego bricks, cutting his fingertips due to unfriendly frames of 90ies x86 assembled PCs, geek about technology and deeply fashinated by theoretical physics. I work as network specialist in the IT staff of an university, and I spend a large amount of my spare time cultivating my interests. Here it is a self-portrait of me, from 90ies ;) 
+
+![Baro in the 90ies](/images/me.jpg)
+
+Online I'm active (with various degrees of involvement) on many platforms: this domain has to be intended as my own service-agnostic contents container, and as authoritative public entry point to reach me. Its name comes from early 90ies as well (what's better than teenagehood?!): "Baro" was -and still is- my nickname from high-school times, given the local habit to obtain them shortening surnames.
+
+### Where you can find me: 
+ 
+
 
 ## Features
 
@@ -26,4 +36,3 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 - RSS Feed
 - In-built sitemap
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.

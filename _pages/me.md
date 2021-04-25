@@ -12,8 +12,15 @@ A bit longer, I'm one of those late-70ies guys grown up with C=64 and Lego brick
 
 ![Baro in the 90ies](/images/me.jpg)
 
-Online I'm active (with various degrees of involvement) on many platforms: this domain has to be intended as my own service-agnostic contents container, and as authoritative public entry point to reach me. Its name comes from early 90ies as well (what's better than teenagehood?!): "Baro" was -and still is- my nickname from high school times, given the local habit to obtain them shortening surnames.
+Online I'm active (with various degrees of involvement) on many platforms: this domain has to be intended as my own service-agnostic contents container, and as authoritative public entry point to reach me. Its name comes from early 90ies as well (what's better than teenagehood?!): "Baro" was -and still is- my nickname since high school times, given the local habit to obtain them shortening surnames.
 
 ### Where you can find me: 
  
-
+- [LinkedIn](https://www.linkedin.com/in/andreabarontini) (andreabarontini)
+- [GitHub](https://github.com/baro77) (baro77)
+- [Medium](https://baro77.medium.com) (baro77)
+- [BitcoinTalk](https://bitcointalk.org/index.php?action=profile;u=2686223) (baro77)
+- [StackExchange network](https://stackexchange.com/users/20675050/baro77) (baro77)
+- [it.scienza.fisica Usenet newsgroup](nntp://it.scienza.fisica) (baro77@...)
+- ...
+- Email: I'm (very) slowly dismissing my Gmail accounts, if you want to reach me via email please check [Hereabouts page](https://www.bybaro.it/hereabouts/)

@@ -16,12 +16,12 @@ Online I'm active (with various degrees of involvement) on many platforms: this 
 
 ### Where you can find me: 
  
-- [LinkedIn](https://www.linkedin.com/in/andreabarontini) (andreabarontini)
-- [GitHub](https://github.com/baro77) (baro77)
-- [Medium](https://baro77.medium.com) (baro77)
-- [Twitter](https://twitter.com/andreabaro77) (andreabaro77)
-- [BitcoinTalk](https://bitcointalk.org/index.php?action=profile;u=2686223) (baro77)
-- [StackExchange network](https://stackexchange.com/users/20675050/baro77) (baro77)
+- [LinkedIn](https://www.linkedin.com/in/andreabarontini){:target="_blank"} (andreabarontini)
+- [GitHub](https://github.com/baro77){:target="_blank"} (baro77)
+- [Medium](https://baro77.medium.com){:target="_blank"} (baro77)
+- [Twitter](https://twitter.com/andreabaro77){:target="_blank"} (andreabaro77)
+- [BitcoinTalk](https://bitcointalk.org/index.php?action=profile;u=2686223){:target="_blank"} (baro77)
+- [StackExchange network](https://stackexchange.com/users/20675050/baro77){:target="_blank"} (baro77)
 - [it.scienza.fisica Usenet newsgroup](nntp://it.scienza.fisica) (baro77@...)
 - ...
 - Email: I'm (very) slowly dismissing my Gmail accounts, if you want to reach me via email please check [Hereabouts](https://www.bybaro.it/hereabouts) page

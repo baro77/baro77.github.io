@@ -4,8 +4,6 @@ title: My recent contributions to Monero
 categories: [Monero, privacy, Stealth Address, Ring Signature]
 ---
 
-## Content
-
 My first real post devoted to my last quarter contributions to Monero project:
 two cheatsheets:
 

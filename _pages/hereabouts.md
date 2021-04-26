@@ -30,7 +30,7 @@ yKwyrUXc6zATArukbEIpZDK2/dcipKq8jj36zboI
 =uEkQ
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-(Btw, you can also reach me on many platforms, check it out on [Me](https://www.bybaro.it/me) page)
+(Btw, I'm not compulsorily requiring PGP, so feel free to send me a standard plaintext email, if you prefer; and you can also reach me on many platforms, check it out on [Me](https://www.bybaro.it/me) page)
 
 So these are the technical merits awarded to who deserves them; instead I'm the only guilty one about posts contents! ;)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first test post
-categories: Miscellaneous
+categories: Test
 ---
 
 ## Content

@@ -4,7 +4,7 @@ title: Quadratic Payments now on arXiv
 categories: [Quadratic voting, Quadratic payments, Marginal likelihood, Cost function, Incentives, Referendum, Octave, Medium, arXiv]
 ---
 
-![](/images/venice.jpg)
+![](/images/quadratic_arxiv.jpg)
 
 A last year child-of-the-lockdown long post on [Medium](https://medium.com/@baro77/quadratic-payments-with-constrained-probabilities-b40facba716){:target="_blank"}, recently rewritten in [LaTeX](https://github.com/baro77/quadratic_influence/tree/master/LATEX){:target="_blank"} to use a typesetting environment more suitable for that kind of content, now announced on [arXiv:2104.12700 cs.GT](https://arxiv.org/abs/2104.12700){:target="_blank"}:
 

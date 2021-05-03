@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quadratic Payments now on arXiv
-categories: [Quadratic voting, Quadratic payments, Marginal likelihood, Cost function, Incentives, Referendum, Octave, Medium, arXiv]
+categories: [Quadratic voting, Quadratic payments, Marginal probability, Cost function, Incentives, Referendum, Octave, Medium, arXiv]
 ---
 
 ![](/images/quadratic_arxiv.jpg)

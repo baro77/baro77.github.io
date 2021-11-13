@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Readers attention req.: Google Analytics activation
+title: Readers attention req. - Google Analytics activation
 categories: [byBaro, Google, Analytics, Privacy, Disclaimer]
 ---
 

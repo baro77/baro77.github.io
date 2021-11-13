@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Foundations of Cryptography's "LaTeX-ized" ERRATA
-categories: [Foundations, Cryptography, Book, Errata, Latex]
+categories: [Foundations, Cryptography, Goldreich, Book, Errata, Latex]
 ---
 
 ![](/images/latexizedFOCerrata.png)

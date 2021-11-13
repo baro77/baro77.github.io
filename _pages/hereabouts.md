@@ -10,7 +10,7 @@ Web and CMS are definitely not my field. If you like the look & feel of this spa
 
 It also fits very easily with [GitHub pages](https://pages.github.com){:target="_blank"}: a must for me, given that "www.byBaro.it" is a [GitHub page with custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site){:target="_blank"}.
 
-Google Analytics is on by default on Reverie, and I have initially disabled it; however I switched it on again on November, 13th 2021 to have a feedback on visits. Further changes, if any, will be listed here and on a dedicated post. 
+Google Analytics is on by default on Reverie, and I have initially disabled it; however I **switched it on again** on November, 13th 2021 to have a feedback on visits. Further changes, if any, will be listed here and on a dedicated post. 
 
 Domain MX is instead handled by [ProtonMail](https://protonmail.com){:target="_blank"}, so if you prefer encrypted communications you can write me at _my name dot my surname at bybaro dot it_ from a Free Proton Account or explicitly using my [PGP public key](https://www.bybaro.it/publickey_bybaro.asc){:target="_blank"} (in case of critical stuff, please check pubkey file hash on my LinkedIn and/or my Twitter, as an extra precaution):
 

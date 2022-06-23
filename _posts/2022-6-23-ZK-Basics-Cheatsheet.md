@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zero-Knowledge Basics Cheatsheet
-categories: [Zero-Knowledge, Simulation, Knowledge-Extraction, ARG, ARK, NIZK, Oracle, Fiat-Shamir]
+categories: [Zero-Knowledge, Simulation, Proof, Knowledge-Extraction, ARG, ARK, NIZK, Oracle, Fiat-Shamir]
 ---
 
 ![](/images/zkbasics.png)

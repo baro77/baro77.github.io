@@ -1,23 +1,17 @@
 ---
 layout: post
-title: Introducing TSS - The Salmon Series
+title: Introducing TSS: The Salmon Series
 categories: [Monero, Cryptography, Cheatsheets, Privacy, byBaro]
 permalink: /prova/
 ---
 
 ![](/images/tssstage.png)
 
-Dear reader,
+Since 2020 I'm studying Monero inner workings and producing infographics from my personal notes to give back my contribution to project documentation.
 
-I'm writing this post to inform you that from late evening of November 13th, 2021 
-[Google Analytics](https://en.wikipedia.org/wiki/Google_Analytics){:target="_blank"} has been activated on _www.byBaro.it_. I kept it disabled when I opened the site on March 2021, because of a maximalist attitude towards privacy; however I have been missing a way to get feedback about visits, so the present decision.
+It wasn't originally planned, but after about two years and four cheatsheets I can say these documents share a common family-style, based on topics selection trying to maximize /conciseness ratio, and consistent graphic choices (e.g. boxed subsections, recurring colours palette representing notes or properties nature/degrees, ...).
 
-This blog doesn't explicitly collect any visitors' information, while of course some "technological" data is inevitably provided using it, e.g. the source IP and some browser infos. So my educated guess is that reading this site isn't more harmful to privacy than generic Internet navigation, but if you don't agree I can suggest you to [contact me](https://www.bybaro.it/me/){:target="_blank"} to check together if a different balance can be reached; if that's not an option, at least you know the terms to be able to decide if (sadly) stop reading this blog... hope not!
+So I think it's right to consider them as a unique ongoing effort. I have decided to call it _The Salmon Series_ because the used colors remember me salmon browning during cooking, and to reserve a permanent, specific space on this web site: [https://www.bybaro.it/tss](https://www.bybaro.it/tss) to be considered the official entry point of the project.
 
-Further changes regarding these topics will be highlighted by future posts like this one and/or on page [Hereabouts](https://www.bybaro.it/hereabouts){:target="_blank"}.
-
-Thanks for being here, 
-regards
-
-Andrea Baro
+Hope you will be able to enjoy the existing and future contents from this new "holistic" point of view and appreciate the minor site changes needed to accomodate the new organization.
 

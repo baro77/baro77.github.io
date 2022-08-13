@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Introducing TSS - The Salmon Series
 categories: [Monero, Cryptography, Cheatsheets, Privacy, byBaro]
 permalink: /prova/

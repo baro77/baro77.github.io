@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Introducing TSS: The Salmon Series
-categories: [Monero, Cryptography, Cheatsheets, Privacy, byBaro]
 permalink: /prova/
 ---
 
@@ -15,3 +14,4 @@ So I think it's right to consider them as a unique ongoing effort. I have decide
 
 Hope you will be able to enjoy the existing and future contents from this new "holistic" point of view and appreciate the minor site changes needed to accomodate the new organization.
 
+categories: [Monero, Cryptography, Cheatsheets, Privacy, byBaro]

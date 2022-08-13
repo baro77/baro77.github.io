@@ -6,6 +6,19 @@ permalink: /tss/
 
 ![Mr Salmon](/images/salmonseries.png)
 
+The Salmon Series (_TSS_ for short) is a group of infographics born from the hand-notes I have been taking while studying Monero's inner workings.
+
+I begun to read _Mastering Monero_ in early 2020 driven by that "Mastering" in the title: coming from _Mastering Bitcoin_ I was searching for an introductory, still catching-all resource about the coin (at that time my only knowledge about Monero was coming from crypto news aggregators, depicting it as a maybe controversial project but for sure very dynamic and brave to raise the bar of anonimity, continuously improving tech in a _best-is-enemy-of-good_ fashion). It has been the fall in the rabbit's hole, and soon I was digging into _Zero to Monero: Second Edition_ as well and other resources, available online in large numbers thanks to the community-based nature of the project.
+
+Soon I perceived an understandable lack of uniformity in offered documentation (as almost always happens with many, loosely harmonized contribs), and given my learning style -not well suited to a lot of formalism to be reconciled- I had to take my recapping notes:
+
+![handnotes](/images/tsshandnotes.png)
+
+The next step has been to think that my notes could be useful to someone else dealing with my same difficulties, so _The Salmon Series_ started with a first cheatsheet made publicly available in late 2020. Of course the idea of the _series_ has come much later, as the "_salmon_": it derives from employed colours, having semantic meanings (even if weak, e.g.: private vs. public, properties degrees, ...) but also a unifying function as a recurring theme, and remembering salmon browning (from raw to well-done) to the my eyes :)
+
+![real salmon slice](/images/salmone_1-e1531912169902.jpg)
+
+The
 
 ## aka Andrea Barontini
 

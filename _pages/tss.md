@@ -11,12 +11,12 @@ The Salmon Series (_TSS_ for short) is a group of infographics born from the han
 They are one page PDF files, landscape oriented to best fit common monitors, or printable (suggested size: A4/Letter, and A3/Tabloid for the most packed ones - the body font size is usually 8). The page space is often organized in blocks, so to be able to zoom-in with small displays or to permit partial sections separate printings in case of A3/Tabloid lacking.
 
 The contents are to be thought as cheatsheets recapping the topics in a concise, schematic, still hopefully effective way: they try to offer a comprehensive all-in-one view stressing concepts and omitting details if more distracting than useful to the general idea; when possible, visual elements and colours are employed to help reaching the goal.
-Of course this kind of resource cannot be a rigorous reference, but authoritative sources that I have consulted are listed, to let the interested reader dig deeper.
+Of course this kind of resource cannot be a rigorous reference or employed alone, but authoritative sources that I have consulted are listed, to let the interested reader have everything needed:
 
-- [Monero Addresses Cheatsheet](tss/MoneroAddressesCheatsheet20201206.pdf){:target="_blank"} [Dec 6th, 2020] - Between the ‘big picture’ and the mathematical details, a single-page recap of various keys, addresses, scopes (private/public, spend/view, on-chain/off-chain, payer’s/payee’s) and their relations.
-- [Rings Cheatsheet](tss/RingsCheatsheet20210301.pdf){:target="_blank"} [Mar 1st, 2021] - From generic legacy signature to CLSAG, a visual-holic journey through Rings flavours, presenting their core properties step-by-step in a poster-size infographic.
-- [RingCT Cheatsheet](tss/RctCheatsheet20210604.pdf){:target="_blank"} [Jun 4th, 2021] - The recipe of a delicious RingCT Type 5 transaction: one CLSAG every eleven UTXOs, Moneroj amounts to taste; thicken everything with Pedersen Commitments whose overall equilibrium will be evident to waiters as well, and protect last ones with a BulletProof glaze; serve on chosen Stealth Addresses and consume not before ten blocks later. Cheers!
-- [ZK Basics Cheatsheet](tss/ZKbasicsCheatsheet20220621.pdf){:target="_blank"} [Jun 21st, 2022] - A lightly theoretical interlude (hopefully still gentle, trying to stress concepts more than formalism and selecting the approached topics) to lay the foundations for Bulletproof and other future Zero-Knowledge-related features, if any.
+- [Monero Addresses Cheatsheet](MoneroAddressesCheatsheet20201206.pdf){:target="_blank"} [Dec 6th, 2020] - Between the ‘big picture’ and the mathematical details, a single-page recap of various keys, addresses, scopes (private/public, spend/view, on-chain/off-chain, payer’s/payee’s) and their relations.
+- [Rings Cheatsheet](RingsCheatsheet20210301.pdf){:target="_blank"} [Mar 1st, 2021] - From generic legacy signature to CLSAG, a visual-holic journey through Rings flavours, presenting their core properties step-by-step in a poster-size infographic.
+- [RingCT Cheatsheet](RctCheatsheet20210604.pdf){:target="_blank"} [Jun 4th, 2021] - The recipe of a delicious RingCT Type 5 transaction: one CLSAG every eleven UTXOs, Moneroj amounts to taste; thicken everything with Pedersen Commitments whose overall equilibrium will be evident to waiters as well, and protect last ones with a BulletProof glaze; serve on chosen Stealth Addresses and consume not before ten blocks later. Cheers!
+- [ZK Basics Cheatsheet](ZKbasicsCheatsheet20220621.pdf){:target="_blank"} [Jun 21st, 2022] - A lightly theoretical interlude (hopefully still gentle, trying to stress concepts more than formalism and selecting the approached topics) to lay the foundations for Bulletproof and other future Zero-Knowledge-related features, if any.
 
 
 ### Where all of this comes from
@@ -32,6 +32,4 @@ The next step has been to think that my notes could be useful to someone else de
 ![real salmon slice](/images/salmone_1-e1531912169902.jpg)
 
 I usually release on [my GitHub](https://github.com/baro77){:target="_blank"}, update this page, and I also open a PR on _getmonero.org_ to made my work available on its [Library section](https://www.getmonero.org/library/){:target="_blank"}: usually in one or two months my contributions are reviewed and merged. Some of them have been [translated into Russian](https://www.bybaro.it/Moh3po/){:target="_blank"}, as well.
-
-
 

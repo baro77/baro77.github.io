@@ -27,7 +27,7 @@ Soon I perceived an understandable lack of uniformity in offered documentation (
 
 ![handnotes](/images/tsshandnotes.png)
 
-The next step has been to think that my notes could be useful to someone else dealing with my same difficulties, so _The Salmon Series_ started with a first cheatsheet made publicly available in the end of 2020. Of course the idea of the _series_ has come much later, as the "_salmon_": it derives from employed colours, having semantic meanings (even if weak, e.g.: private vs. public, properties degrees, ...) but also a unifying function as a recurring theme, and remembering salmon browning (from raw to well-done) to the my eyes :)
+The next step has been to think that my notes could be useful to someone else dealing with my same difficulties, so _The Salmon Series_ started with a first cheatsheet about Monero Addresses made publicly available in the end of 2020. Of course the idea of the _series_ has come much later, as the "_salmon_": it derives from employed colours, having semantic meanings (even if weak, e.g.: private vs. public, properties degrees, ...) but also a unifying function as a recurring theme, and remembering salmon browning (from raw to well-done) to the my eyes :)
 
 ![real salmon slice](/images/salmone_1-e1531912169902.jpg)
 

@@ -16,8 +16,8 @@ Of course this kind of resource cannot be a rigorous or self-sufficient referenc
 
 | [Monero Addresses Cheatsheet](MoneroAddressesCheatsheet20201206.pdf){:target="_blank"} - Dec 6th, 2020 | 
 | Between the ‘big picture’ and the mathematical details, a single-page recap of various keys, addresses, scopes (private/public, spend/view, on-chain/off-chain, payer’s/payee’s) and their relations |
-<br>
 
+<br>
 | [Rings Cheatsheet](RingsCheatsheet20210301.pdf){:target="_blank"} - Mar 1st, 2021 |
 | From generic legacy signature to CLSAG, a visual-holic journey through Rings flavours, presenting their core properties step-by-step in a poster-size infographic |
 

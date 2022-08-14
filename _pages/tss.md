@@ -13,7 +13,7 @@ They are one page PDF files, landscape oriented to best fit common monitors, or 
 The contents are to be thought as cheatsheets recapping the topics in a concise, schematic, still hopefully effective way: they try to offer a comprehensive all-in-one view stressing concepts and omitting details if more distracting than useful to understand the general ideas; when possible, visual elements and colours are employed to help reaching the goal.
 Of course this kind of resource cannot be a rigorous or self-sufficient reference, but authoritative sources that I have consulted are listed, to let the interested reader have everything needed:
 <br>
-<br>
+
 | [Monero Addresses Cheatsheet](MoneroAddressesCheatsheet20201206.pdf){:target="_blank"} - Dec 6th, 2020 | 
 | Between the ‘big picture’ and the mathematical details, a single-page recap of various keys, addresses, scopes (private/public, spend/view, on-chain/off-chain, payer’s/payee’s) and their relations |
 | [Rings Cheatsheet](RingsCheatsheet20210301.pdf){:target="_blank"} - Mar 1st, 2021 |
@@ -22,7 +22,7 @@ Of course this kind of resource cannot be a rigorous or self-sufficient referenc
 | The recipe of a delicious RingCT Type 5 transaction: one CLSAG every eleven UTXOs, Moneroj amounts to taste; thicken everything with Pedersen Commitments whose overall equilibrium will be evident to waiters as well, and protect last ones with a BulletProof glaze; serve on chosen Stealth Addresses and consume not before ten blocks later. Cheers! |
 | [ZK Basics Cheatsheet](ZKbasicsCheatsheet20220621.pdf){:target="_blank"} - Jun 21st, 2022 |
 | A lightly theoretical interlude (hopefully still gentle, trying to stress concepts more than formalism and selecting the approached topics) to lay the foundations for Bulletproof and other future Zero-Knowledge-related features, if any |
-<br>
+
 <br>
 ### Where all of this comes from
 

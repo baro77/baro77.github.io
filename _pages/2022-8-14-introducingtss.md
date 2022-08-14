@@ -7,7 +7,6 @@ permalink: /prova/
 
 ![](/images/tssstage.png)
 <br>
-<br>
 Since 2020 I'm studying Monero inner workings and producing infographics from my personal notes to give back my contribution to cryptocurrency documentation.
 
 It wasn't originally planned, but after about two years and four cheatsheets I can say these documents share a common family-style, based on topics selection trying to maximize _provided informations/conciseness_ ratio, and consistent graphic choices (e.g. boxed subsections, recurring colours palette representing notes or properties nature/degrees, ...).

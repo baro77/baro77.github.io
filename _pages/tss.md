@@ -8,7 +8,7 @@ permalink: /tss/
 
 The Salmon Series (_TSS_ for short) is a set of infographics born from the hand-notes I have been taking while studying Monero's inner workings.
 
-They are one page PDF files, landscape oriented to best fit common monitors, or printable (suggested size: A4/Letter, and A3/Tabloid for the most packed ones - the body font size is usually 8). The page space is often organized in blocks, so to be able to zoom-in with small displays or to permit partial sections separate printings in case of A3/Tabloid lack.
+They are one page PDF files, landscape oriented to best fit common monitors, or printable (suggested size: A4/Letter, and A3/Tabloid for the most packed ones - the body font size usually being 8). The page space is often organized in subsections, so to be able to zoom-in with small displays or to permit partial, separate, still consistent printings in case of A3/Tabloid lack.
 
 The contents are to be thought as cheatsheets recapping the topics in a concise, schematic, still hopefully effective way: they try to offer a comprehensive all-in-one view stressing concepts and omitting details if more distracting than useful to understand the important ideas; when possible, visual elements and colours are employed to help reaching the goal.
 Of course this kind of resource cannot be a rigorous or self-sufficient reference, but authoritative sources that I have consulted are listed, to let the interested reader have everything needed:

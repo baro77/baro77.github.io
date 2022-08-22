@@ -31,7 +31,7 @@ Of course this kind of resource cannot be a rigorous or self-sufficient referenc
 
 I began to read _Mastering Monero_ in early 2020 driven by that "Mastering" in the title: coming from _Mastering Bitcoin_ I was searching for an introductory, still catching-all resource about the coin (at that time my only knowledge about Monero was coming from crypto news aggregators, depicting it as a maybe controversial project but for sure very dynamic and brave to raise the bar of anonimity, continuously improving tech in a _best-is-enemy-of-good_ fashion). It has been the fall in the rabbit's hole, and soon I was digging into _Zero to Monero: Second Edition_ as well and other resources, available online in large numbers thanks to the community-based nature of the project.
 
-Soon I perceived an understandable lack of uniformity in offered documentation (as often happens with many, loosely harmonized contribs) and I missed any diagrams helping me about formulas; given my learning habits -not well suited to a lot of formalism and styles to be reconciled- I had to take my own recapping notes:
+While studying I perceived an understandable lack of uniformity in offered documentation (as often happens with many, loosely harmonized contribs) and I missed any diagrams helping me about formulas; given my learning habits -not well suited to a lot of formalism and styles to be reconciled- I had to take my own recapping notes:
 
 ![handnotes](/images/tsshandnotes.png)
 

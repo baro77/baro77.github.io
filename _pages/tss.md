@@ -4,7 +4,7 @@ title: The Salmon Series
 permalink: /tss/
 ---
 
-![Mr Salmon](/images/salmonseries.png)
+![Mr Salmon](/images/tss_mrsalmon.png)
 
 The Salmon Series (_TSS_ for short) is a set of infographics born from the hand-notes I have been taking while studying Monero's inner workings.
 
@@ -33,11 +33,11 @@ I began to read _Mastering Monero_ in early 2020 driven by that "Mastering" in t
 
 While studying I perceived an understandable lack of uniformity in offered documentation (as often happens with many, loosely harmonized contribs) and I missed any diagrams helping me about formulas; given my learning habits -not well suited to a lot of formalism and styles to be reconciled- I had to take my own recapping notes:
 
-![handnotes](/images/tsshandnotes.png)
+![handnotes](/images/tss_handnotes.png)
 
 The next step has been to think that my notes could be useful to someone else dealing with my same difficulties, so _The Salmon Series_ started with a first cheatsheet about Monero Addresses made publicly available by the end of 2020. Of course the idea of the _series_ has come much later, as the "_salmon_": it derives from employed colours, having semantic meanings (even if weak, e.g.: private vs. public, properties degrees, ...) but also a unifying function as a recurring theme, and remembering salmon browning (from raw to well-done) to the my eyes :-) (BTW: yes, I know salmon scales are grey, but I wanted **Mr Salmon** opening this page to be cute lol!)
 
-![real salmon slice](/images/realsalmon.png)
+![real salmon slice](/images/tss_realsalmon.png)
 
 Typically I release on [my GitHub](https://github.com/baro77){:target="_blank"}, update this page, and I also open a PR on _getmonero.org_ to made my work available on its [Library section](https://www.getmonero.org/library/){:target="_blank"}: usually in one or two months my contributions are reviewed and merged. Some of them have been [translated into Russian](https://www.bybaro.it/Moh3po/){:target="_blank"}, as well.
 

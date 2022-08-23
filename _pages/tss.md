@@ -39,5 +39,5 @@ The next step has been to think that my notes could be useful to someone else de
 
 ![real salmon slice](/images/realsalmon.png)
 
-I usually release on [my GitHub](https://github.com/baro77){:target="_blank"}, update this page, and I also open a PR on _getmonero.org_ to made my work available on its [Library section](https://www.getmonero.org/library/){:target="_blank"}: usually in one or two months my contributions are reviewed and merged. Some of them have been [translated into Russian](https://www.bybaro.it/Moh3po/){:target="_blank"}, as well.
+Typically I release on [my GitHub](https://github.com/baro77){:target="_blank"}, update this page, and I also open a PR on _getmonero.org_ to made my work available on its [Library section](https://www.getmonero.org/library/){:target="_blank"}: usually in one or two months my contributions are reviewed and merged. Some of them have been [translated into Russian](https://www.bybaro.it/Moh3po/){:target="_blank"}, as well.
 

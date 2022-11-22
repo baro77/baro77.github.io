@@ -107,3 +107,5 @@ exclude:
   - README.md
   - CNAME
 
+# for Mastodon alias Webfinger (byBaro, 20221122]
+include: ["/.well-known" ]

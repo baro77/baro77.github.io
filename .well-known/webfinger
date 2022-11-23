@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect: https://ioc.exchange/.well-known/webfinger
+redirect: https://ioc.exchange/.well-known/webfinger?resource=acct:baro77@ioc.exchange
 ---

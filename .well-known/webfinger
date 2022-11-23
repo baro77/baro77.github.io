@@ -1,23 +1,7 @@
-{
-  "subject": "acct:baro77@ioc.exchange",
-  "aliases": [
-    "https://ioc.exchange/@baro77",
-    "https://ioc.exchange/users/baro77"
-  ],
-  "links": [
-    {
-      "rel": "http://webfinger.net/rel/profile-page",
-      "type": "text/html",
-      "href": "https://ioc.exchange/@baro77"
-    },
-    {
-      "rel": "self",
-      "type": "application/activity+json",
-      "href": "https://ioc.exchange/users/baro77"
-    },
-    {
-      "rel": "http://ostatus.org/schema/1.0/subscribe",
-      "template": "https://ioc.exchange/authorize_interaction?uri={uri}"
-    }
-  ]
-}
+<html>
+   <head>
+      <meta http-equiv = "refresh" content = "0; url = https://ioc.exchange/.well-known/webfinger" />
+   </head>
+   <body>
+   </body>
+</html>

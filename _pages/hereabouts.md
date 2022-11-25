@@ -8,7 +8,7 @@ If you like the look & feel of this space the merit is all of [Reverie](https://
 
 > _Reverie is a Jekyll-powered theme which is simple and opinionated. It's actually a fork of jekyll-now with some additional features and personal touches which I've implemented to suit my needs for my blog._
 
-It also fits very easily with [GitHub pages](https://pages.github.com){:target="_blank"}: a must for me, given that "www.byBaro.it" is a [GitHub page with custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site){:target="_blank"}. Web, CMS, static generators are definitely not my field: I have been doing only minor changes to the original template, just to accommodate needs when they appear.
+It also fits very easily with [GitHub pages](https://pages.github.com){:target="_blank"}: a must for me, given that "www.byBaro.it" is a [GitHub page with custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site){:target="_blank"}. Web, CMS, static generators are definitely not my field: I have been doing only minor changes to the original theme, just to accommodate needs when they appear.
 
 Google Analytics is on by default on Reverie, and I have initially disabled it; I activated it on November, 13th 2021 to have feedback on visits, but I deactivated it again on January, 25th 2022 due to Austrian Datenschutzbehörde notes. Further changes, if any, will be listed here and on dedicated posts (like these ones: [1](https://www.bybaro.it/GAactivation/), [2](https://www.bybaro.it/GAdeactivation/)). 
 

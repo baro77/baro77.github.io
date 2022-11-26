@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta http-equiv="refresh" content="0; url=https://ioc.exchange/.well-known/webfinger?resource=acct:baro77@ioc.exchange" />
-</head>
-</html>
+---
+layout: redirect
+redirect: https://ioc.exchange/.well-known/webfinger?resource=acct:baro77@ioc.exchange
+---

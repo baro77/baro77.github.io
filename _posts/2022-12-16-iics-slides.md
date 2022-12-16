@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: "Incentives in Computer Science: slides UNOFFICIAL PACK"
-permalink: /test/
+categories: [Game Theory, Computer Science, Incentives, Foundations, YouTube, Slides]
 ---
 
 ![](/images/iics-slides.jpg)
@@ -28,7 +28,7 @@ As you can verify from the above links, there's plenty of resources. However I w
 | [Module #6: Bitcoin](IICS-SlidesModule6-Bitcoin.pdf){:target="_blank"} |
 
 <br>
-###Disclaimer
+### Disclaimer
 
 Of course all the copyrights belong to Prof. Roughgarden, I have just done some copy&paste from his videos' frames to the PDFs and the featured image: I'm ready to put these contents offline if he dislikes my initiative (this post is going to have a companion/advertising tweet tagging him).
 

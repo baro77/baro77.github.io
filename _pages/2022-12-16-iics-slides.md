@@ -6,7 +6,7 @@ permalink: /test/
 
 ![](/images/iics-slides.jpg)
 <br>
-Everyone serious about computer science has to take a look at the many lectures Prof. Tim Roughgarden shares on his [YouTube Channel](https://www.youtube.com/@timroughgardenlectures1861/featured){:target="_blank"}, coming from his research, seminars and courses at Stanford and Columbia University: e.g. he is the author of monumental [Algorithms Illuminated](http://www.algorithmsilluminated.org){:target="_blank"} series (now also available as a single volume), and of the illuminating [Foundations of Blockchains](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA){:target="_blank"} lectures (the YouTube "class" is still ongoing, and I strongly suggest it to everyone wanting to go deeper than the too frequent chit-chat surrounding this fascinating world).
+Everyone serious about computer science has to take a look at the many lectures Prof. Tim Roughgarden shares on his [YouTube Channel](https://www.youtube.com/@timroughgardenlectures1861/featured){:target="_blank"}, coming from his research, seminars and courses at Stanford and Columbia University: e.g. he is the author of monumental [Algorithms Illuminated](http://www.algorithmsilluminated.org){:target="_blank"} series (now also available as a single volume), and of the super valuable [Foundations of Blockchains](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA){:target="_blank"} lectures (the YouTube "class" is still ongoing, and I strongly suggest it to everyone wanting to go deeper than the too frequent chit-chat surrounding this fascinating world).
 
 For me, being keen on blockchains means falling in a rabbit hole at every new step ahead: I have already got sucked into cryptography, and another field which has always attracted me is game theory, the framework in which you can model the interactions between competitive parties (sorry if the definition is not exact, I'm still at the beginning about it, anyway I hope it's decent for this informal post).
 
@@ -17,7 +17,7 @@ No need to tell you, Tim Roughgarden has put together a comprehensive learning p
 * [Algorithmic Game Theory (Stanford CS364A, Fall 2013)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4){:target="_blank"} - full graduate course recordings and lecture notes;
 * [Advanced Mechanism Design (Stanford CS364B, Winter 2014)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9){:target="_blank"} - advanced topics, following CS364A.
 
-As you can verify following the above links, there's plenty of resources. However I was missing the slides of the first course: it's really introductory, anyway those notes are a recap of video contents, useful for later second views of specific excerpts. So I snaphot*ed* and converted them into **PDF**s, one for each module: 
+As you can verify from the above links, there's plenty of resources. However I was missing the slides of the first course: it's really introductory, anyway those notes are a recap of video contents, useful for finding specific excerpts during later replays. So I snaphot*ed* and converted them into **PDF**s, one for each module: 
 <br><br>
 
 | [Module #1: Markets, Everywhere](IICS-SlidesModule1-MarketsEverywhere.pdf){:target="_blank"} |
@@ -34,4 +34,6 @@ As you can verify following the above links, there's plenty of resources. Howeve
 
 <br>
 ###Disclaimer
-Of course all the copyrights belong to Prof. Roughgarden, I have just done some copy&paste from his videos' frames and the PDF creation: I'm ready to put the contents offline if he dislikes this initiative (this post is going to have a companion/advertising Tweet tagging him). 
+Of course all the copyrights belong to Prof. Roughgarden, I have just done some copy&paste from his videos' frames to the PDFs and the featured image: I'm ready to put these contents offline if he dislikes my initiative (this post is going to have a companion/advertising tweet tagging him).
+
+

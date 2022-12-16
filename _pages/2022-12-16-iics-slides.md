@@ -21,19 +21,15 @@ As you can verify from the above links, there's plenty of resources. However I w
 <br><br>
 
 | [Module #1: Markets, Everywhere](IICS-SlidesModule1-MarketsEverywhere.pdf){:target="_blank"} |
-
 | [Module #2: The Prisoner's Dilemma](IICS-SlidesModule2-ThePrisonersDilemma.pdf){:target="_blank"} |
-
 | [Module #3: Asymmetric Information (moral hazard, adverse selection)](IICS-SlidesModule3-AsymmetricInformation.pdf){:target="_blank"} |
-
 | [Module #4: Auctions (+ online advertising)](IICS-SlidesModule4-Auctions.pdf){:target="_blank"} |
-
 | [Module #5: Participatory Budgeting](IICS-SlidesModule5-ParticipatoryBudgeting.pdf){:target="_blank"} |
-
 | [Module #6: Bitcoin](IICS-SlidesModule6-Bitcoin.pdf){:target="_blank"} |
 
 <br>
 ###Disclaimer
+
 Of course all the copyrights belong to Prof. Roughgarden, I have just done some copy&paste from his videos' frames to the PDFs and the featured image: I'm ready to put these contents offline if he dislikes my initiative (this post is going to have a companion/advertising tweet tagging him).
 
 

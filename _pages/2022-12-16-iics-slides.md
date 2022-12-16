@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Incentives in Computer Science: slides" UNOFFICIAL PACK
+title: "Incentives in Computer Science: slides UNOFFICIAL PACK"
 permalink: /test/
 ---
 

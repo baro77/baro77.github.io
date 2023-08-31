@@ -40,7 +40,5 @@ The next step has been to think that my notes could be useful to someone else de
 ![real salmon slice](/images/tss_realsalmon.png)
 
 Typically I release on [my GitHub](https://github.com/baro77){:target="_blank"}, update this page, and I also open a PR on _getmonero.org_ to made my work available on its [Library section](https://www.getmonero.org/library/){:target="_blank"}: usually in one or two months my contributions are reviewed and merged.
-After about six months I release the source files (usually .docx or .pptx formats) for translations or derivative works (please contact me if interested): e.g. thanks to the tough work of [v1docq47](https://github.com/v1docq47){:target="_blank"}, Russian versions are available:
-
-[Monero Addresses](MoneroAddressesCheatsheet20201206-RU.pdf){:target="_blank"}, [Rings](RingsCheatsheet20210301-RU.pdf){:target="_blank"}, [RingCT](RctCheatsheet20210604-RU.pdf){:target="_blank"}, ZK Basics _(WIP)_
+After about six months I release the source files (usually .docx or .pptx formats) for translations or derivative works (please contact me if interested): e.g. thanks to the tough work of [v1docq47](https://github.com/v1docq47){:target="_blank"}, Russian versions are available ([Monero Addresses](MoneroAddressesCheatsheet20201206-RU.pdf){:target="_blank"}, [Rings](RingsCheatsheet20210301-RU.pdf){:target="_blank"}, [RingCT](RctCheatsheet20210604-RU.pdf){:target="_blank"}, ZK Basics - _WIP_)
 

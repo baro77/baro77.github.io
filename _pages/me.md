@@ -20,7 +20,7 @@ Online I'm active (with various degrees of involvement) on many platforms: this 
 - [GitHub](https://github.com/baro77){:target="_blank"} (baro77)
 - [Medium](https://baro77.medium.com){:target="_blank"} (baro77)
 - [Mastodon](https://ioc.exchange/@baro77){:target="_blank"} (@baro77@ioc.exchange)
-- [Twitter](https://twitter.com/andreabaro77){:target="_blank"} (andreabaro77)
+- [Twitter / X](https://twitter.com/andreabaro77){:target="_blank"} (andreabaro77)
 - [BitcoinTalk](https://bitcointalk.org/index.php?action=profile;u=2686223){:target="_blank"} (baro77)
 - [StackExchange network](https://stackexchange.com/users/20675050/baro77?tab=accounts){:target="_blank"} (baro77)
 - [it.scienza.fisica Usenet newsgroup](nntp://it.scienza.fisica) (baro77@...)

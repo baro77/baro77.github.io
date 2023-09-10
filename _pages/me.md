@@ -19,6 +19,7 @@ Online I'm active (with various degrees of involvement) on many platforms: this 
 - [LinkedIn](https://www.linkedin.com/in/andreabarontini){:target="_blank"} (andreabarontini)
 - [GitHub](https://github.com/baro77){:target="_blank"} (baro77)
 - [Medium](https://baro77.medium.com){:target="_blank"} (baro77)
+- [Bluesky](https://bsky.app/profile/bybaro.it){:target="_blank"} (@bybaro.it)
 - [Mastodon](https://ioc.exchange/@baro77){:target="_blank"} (@baro77@ioc.exchange)
 - [Twitter / X](https://twitter.com/andreabaro77){:target="_blank"} (andreabaro77)
 - [BitcoinTalk](https://bitcointalk.org/index.php?action=profile;u=2686223){:target="_blank"} (baro77)

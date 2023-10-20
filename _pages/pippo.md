@@ -18,7 +18,7 @@ Because the true is simply that I have grown up in lower-middle class family who
 I deeply believe the right to move, travel, relocate is a natural, fundamental right. Any populist reasons opposing to it are only toxic and auto-referencing parasites feeding themselves at the expense of one of humankind foundational freedoms. Please enjoy Dubioza Kolektiv and Manu Chao song.
 
 <center>
-  I will jump over fence<br>
+I will jump over fence<br>
 And climb up any wall<br>
 Movement of the people<br>
 You cannot control<br>
@@ -33,7 +33,7 @@ I’ll try over and over<br>
 Nothing can stop me<br>
 No wire, no border<br>
 I will not obey<br>
-I will listen no order<br>
+I will listen no order<br><br>
 
 Bloody, bloody borders<br>
 Sanguinary times<br>
@@ -42,7 +42,7 @@ Sanguinary times<br>
 Freedom to cross<br>
 Freedom to pass<br>
 Freedom is no crime<br>
-so we will cross the line<br>
+so we will cross the line<br><br>
 
 Bloody, bloody borders<br>
 Sanguinary times<br>
@@ -51,9 +51,9 @@ Sanguinary times<br>
 Freedom to cross<br>
 Freedom to pass<br>
 Freedom is no crime<br>
-so we will cross the line<br>
+so we will cross the line<br><br>
 
-We will cross the line<br>
+We will cross the line<br><br>
 
 I will jump over fence<br>
 And climb up any wall<br>
@@ -70,7 +70,7 @@ is crushing my bones<br>
 Is it so wrong to be born<br>
 In a danger zone<br>
 I’m just lookin’ for a place<br>
-I can call my home<br>
+I can call my home<br><br>
 
 Bloody, bloody borders<br>
 Bloody, bloody borders<br>

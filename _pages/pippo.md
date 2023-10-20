@@ -11,14 +11,14 @@ Very busy year for me, requiring my attention to temporarily shift from my usual
 I'm still (slowly) working on [TSS](https://www.bybaro.it/tss)'s next cheatsheet, I have kept the pace and [successfully](/images/zkpmooc-finalgrade.jpg){:target="_blank"} completed the [Zero Knowledge Proofs MOOC](https://zk-learning.org){:target="_blank"} (not enough by itself to say I handle the topic, but a challenging and instructive first-learning for me), and soon or latter I'll brush up the first 9 lessons of Tim Roughgarden's [Foundations of Blockchains](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA){:target="_blank"} to continue with the next ones (definitely one of the best resources on the topic out there). 
 But I haven't produced anything suitable as original content for a post (BTW, I really envy who is able to publish often and regularly high entropy contribs); however I feel the urge to keep this space alive. 
 
-So here it is this quite uncommon post, sharing a song I like for its musical style and words. Someone could think it's related to current (2023) Italian political choices regarding people arriving in my country after very risky Mediterranean Sea crossing; someone could think it's related to the new Israel vs. Palestine massacres; someone could think it's related to the longstanding issue of the USA-Mexico border wall; still someone else could relate it to crossing issues I don't either know. All wrong and all right interpretations. 
+So here it is this quite uncommon post, sharing a song I like for its musical style and lyrics. Someone could think it's related to current (2023) Italian political choices regarding people arriving in my country after very risky Mediterranean Sea crossing; someone could think it's related to the new Israel vs. Palestine massacres; someone could think it's related to the longstanding issue of the USA-Mexico border wall; still someone else could relate it to crossing issues I don't either know. All wrong and all right interpretations. 
 
 Because the true is simply that I have grown up in lower-middle class family who invested on camper van to be able to visit a lot of places during work/school holidays, thanks to the cheap rates of that kind of vacation. Thank you so much Angela and Rodano! Between 6 (I guess earlier but I don't remember ;-) ) and 11 years old I luckily visited so many places in Italy and Europe and this has contributed to make me feel citizen of the world, not of one nation, not of one region, not of one city. Just a simple curiosity and economy driven choice which planted in me the seed of something that only later emerged to full consciousness. 
 
-I deeply believe the right to move, travel, relocate is a natural, fundamental right. Any populist reasons opposing to it are only toxic and auto-referencing parasites feeding themselves at the expense of one of humankind foundational freedoms. Please enjoy Dubioza Kolektiv and Manu Chao song.
-
+I deeply believe the right to move, travel, relocate is a natural, fundamental right. Any populist reasons opposing to it are only toxic and auto-referencing parasites feeding themselves at the expense of one of humankind foundational freedoms. Please enjoy [Dubioza Kolektiv](https://www.youtube.com/channel/UCSlEdyj6I4TX8mcGwL8rVlw){:target="_blank"} and [Manu Chao](https://www.youtube.com/channel/UCzGpxRavGnm6yym4Pt7B2sg){:target="_blank"} song.
+<br><br>
 <center>
-I will jump over fence<br>
+*I will jump over fence<br>
 And climb up any wall<br>
 Movement of the people<br>
 You cannot control<br>
@@ -88,5 +88,5 @@ Sanguinary times<br>
 Freedom to cross<br>
 Freedom to pass<br>
 Freedom is no crime<br>
-so we will cross the line<br>
+so we will cross the line*<br>
 </center>

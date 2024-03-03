@@ -14,7 +14,7 @@ A bit longer, I'm one of those late-70ies guys grown up with C=64 and Lego brick
 
 Online I'm active (with various degrees of involvement) on many platforms: this domain has to be intended as my own service-agnostic contents container, and as authoritative public entry point to reach me. Its name comes from early 90ies as well (what's better than teenagehood?!): "Baro" was -and still is- my nickname since high school times, given the local habit to obtain them shortening surnames.
 
-### Where you can find me: 
+### Contact infos: 
  
 - [LinkedIn](https://www.linkedin.com/in/andreabarontini){:target="_blank"} (andreabarontini)
 - [GitHub](https://github.com/baro77){:target="_blank"} (baro77)
@@ -26,4 +26,5 @@ Online I'm active (with various degrees of involvement) on many platforms: this 
 - [StackExchange network](https://stackexchange.com/users/20675050/baro77?tab=accounts){:target="_blank"} (baro77)
 - [it.scienza.fisica Usenet newsgroup](nntp://it.scienza.fisica) (baro77@...)
 - ...
+- Apple's iMessage public verification code: ```APKTIDV95pkOFmbr6FiYtN2kpSUO5RF_TzlysUbMWnhoP7rbyVsA```
 - Email: I'm (very) slowly dismissing my Gmail accounts, if you want to reach me via email please check [Hereabouts](https://www.bybaro.it/hereabouts) page

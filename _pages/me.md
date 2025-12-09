@@ -27,4 +27,4 @@ Online I'm active (with various degrees of involvement) on many platforms: this 
 - [it.scienza.fisica Usenet newsgroup](nntp://it.scienza.fisica) (baro77@...)
 - ...
 - Apple's iMessage public verification code: ```APKTIDV95pkOFmbr6FiYtN2kpSUO5RF_TzlysUbMWnhoP7rbyVsA```
-- Email: I'm (very) slowly dismissing my Gmail accounts, if you want to reach me via email please check [Hereabouts](https://www.bybaro.it/hereabouts) page
+- Email: I'm (very) slowly dismissing my Gmail accounts, if you want to reach me via email you can write me at _my name dot my surname at bybaro dot it_ 

@@ -12,27 +12,8 @@ It also fits very easily with [GitHub pages](https://pages.github.com){:target="
 
 Google Analytics is on by default on Reverie, and I have initially disabled it; I activated it on November, 13th 2021 to have feedback on visits, but I deactivated it again on January, 25th 2022 due to Austrian Datenschutzbehörde notes. Further changes, if any, will be listed here and on dedicated posts (like these ones: [1](https://www.bybaro.it/GAactivation/), [2](https://www.bybaro.it/GAdeactivation/)). 
 
-Domain MX is instead handled by [Proton](https://proton.me){:target="_blank"}, so if you prefer encrypted communications you can write me at _my name dot my surname at bybaro dot it_ from a Free Proton Account or explicitly using my [PGP public key](https://www.bybaro.it/publickey_bybaro.asc){:target="_blank"} (in case of critical stuff, please check pubkey file hash on my LinkedIn and/or my Twitter, as an extra precaution):
-
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-Version: OpenPGP.js v4.10.8
-Comment: https://openpgpjs.org
-
-xjMEYGximBYJKwYBBAHaRw8BAQdAmtVsJm3qxWdw3umDlb2JXUCq+/WdpNRX
-iSg6mYnziMbNN2FuZHJlYS5iYXJvbnRpbmlAYnliYXJvLml0IDxhbmRyZWEu
-YmFyb250aW5pQGJ5YmFyby5pdD7CjwQQFgoAIAUCYGximAYLCQcIAwIEFQgK
-AgQWAgEAAhkBAhsDAh4BACEJEI3+aYcN5IGlFiEE/AkLdi2ofdwvbL48jf5p
-hw3kgaWg5AD/XLV7knTJJDCWnE74/LBKf8HEa2pi5aoElZxuXwH9xxMBAM5B
-TlGmJS9I1D2qgh2V53PKZPQO+nP/ynMz/yEOX3YNzjgEYGximBIKKwYBBAGX
-VQEFAQEHQGE1v7l4LMaCGsEz0+zMW9g86WYieHaCO3l3bIhm5yoGAwEIB8J4
-BBgWCAAJBQJgbGKYAhsMACEJEI3+aYcN5IGlFiEE/AkLdi2ofdwvbL48jf5p
-hw3kgaUqNwD7B1xsPBI7t35YNQrZQQ5aJml3ckwvruwO9OL/20TmmC4A/0p0
-yKwyrUXc6zATArukbEIpZDK2/dcipKq8jj36zboI
-=uEkQ
------END PGP PUBLIC KEY BLOCK-----
-```
-(Btw, I'm not compulsorily requiring PGP, so feel free to send me a standard plaintext email, if you prefer; and you can also reach me on many platforms, check it out on [Me](https://www.bybaro.it/me) page)
+Domain MX was handled by Proton till December 2025; after that, due to discontent with their refund policy and multi-years customer handling, I switched email handling to an Apple's iCloud custom domain. Of course I still own my pubkey/privkey pair: honestly I never use email encryption (apart from automatically with other Proton users), so I'm still evaluating what to do with them... actually, and if not otherwise said, I deprecate their use; but if you still have and will use my PGP public key, my educated guess is that I'll be able to decrypt, read, answer it :) 
+At same time of email provider changed I also brushed up my DMARC policy and I played a bit with BIMI (but not certified yet, so just a geeky test. 
 
 So these are the technical merits awarded to who deserves them; instead I'm the only guilty one about posts contents! ;)
 

@@ -25,7 +25,7 @@ Online I'm active (with various degrees of involvement) on many platforms: this 
 - [BitcoinTalk](https://bitcointalk.org/index.php?action=profile;u=2686223){:target="_blank"} (baro77)
 - [StackExchange network](https://stackexchange.com/users/20675050/baro77?tab=accounts){:target="_blank"} (baro77)
 - [Facebook](https://www.facebook.com/baro77){:target="_blank"} (baro77)
-- [it.scienza.fisica Usenet newsgroup](nntp://it.scienza.fisica) (baro77@...)
+- [it.scienza.fisica Usenet newsgroup](news:it.scienza.fisica) (baro77@...)
 - ...
 - Apple's iMessage public verification code: ```APKTIDV95pkOFmbr6FiYtN2kpSUO5RF_TzlysUbMWnhoP7rbyVsA```
 - Email: I'm (very) slowly dismissing my Gmail accounts, if you want to reach me via email you can write me at _my name dot my surname at bybaro dot it_ 

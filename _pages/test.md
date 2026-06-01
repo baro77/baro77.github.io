@@ -41,10 +41,10 @@ The first is a very dense paper giving an overall taste of almost all the field,
 Imho you should follow this reading path: 
 
 * 1: post [**All you need to know about classical error correction**](https://arthurpesah.me/blog/2022-05-21-classical-error-correction/){:target="_blank"};
-* 2: post [**The stabilizer trilogy I — Stabilizer codes**](){:target="_blank"};
-* 3: post [**The stabilizer trilogy II — Logical operators**](){:target="_blank"};
+* 2: post [**The stabilizer trilogy I — Stabilizer codes**](https://arthurpesah.me/blog/2023-01-31-stabilizer-formalism-1/){:target="_blank"};
+* 3: post [**The stabilizer trilogy II — Logical operators**](https://arthurpesah.me/blog/2023-03-16-stabilizer-formalism-2/){:target="_blank"};
 
-I avoided to suggest first blog post on the topic ([**A bird's-eye view of quantum error correction and fault tolerance**](https://arthurpesah.me/blog/2022-01-25-intro-qec-1/){:target="_blank"}) because it touches a lot of topics but of course without explaining any: imho it's better to read it as a sort of sanity check in the end, as a recap.
+I avoided to suggest first blog post on the topic ([A bird's-eye view of quantum error correction and fault tolerance](https://arthurpesah.me/blog/2022-01-25-intro-qec-1/){:target="_blank"}) because it touches a lot of topics but of course without explaining any: imho it's better to read it as a sort of sanity check in the end, as a recap.
 Stabilizers and logical operators explanations clarify a lot of stuff that in Hitchhiker’s Guide is just introduced leaving the reader the task to deepen: for sure struggling on them could be very instructive, but maybe a it's a bit "too much" if groups-theory isn't your daily meal.
 
 * 4: first 21 pages of [**Hitchhiker’s Guide**](https://doi.org/10.3390/e28020251){:target="_blank"} (till *Defect diagram*, not included);

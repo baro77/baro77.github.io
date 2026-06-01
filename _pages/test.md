@@ -63,7 +63,7 @@ Coming back to Hitchhiker’s Guide, surface codes *actual stabilizer measuremen
 
 Of course a 35 pages paper has to choose what to omit: in our case the biggest miss is **unrotated surface codes**, however you can find them and how they relate to paper's rotated one in the next Pesah's post to be read:
 
-* 5: post [** An interactive introduction to the surface code**](https://arthurpesah.me/blog/2023-05-13-surface-code/){:target="_blank"};
+* 5: post [**An interactive introduction to the surface code**](https://arthurpesah.me/blog/2023-05-13-surface-code/){:target="_blank"};
 
 it's an interactive post, enforcing a code visualizer co-developed by the author, which also has an independent life as a playground ([https://gui.quantumcodes.io](https://gui.quantumcodes.io){:target="_blank"}). In this post you'll also find the explanation about why logical operator are row-like and column-like and a recap of the error models (*code-capacity/phenomenological/circuit-level*) and threshold values already met in the paper.
 Then it's time to dig in *defect diagram* and *lattice surgery*:
@@ -80,7 +80,7 @@ I have detailed all of this because I believe lattice surgery is a very abstract
 
 Dealing with Hadamard, *transversal gates* are nominated, but I definitely prefer their explanation in a Pesah's post:
 
-* 7: post [** Computing with quantum codes using transversal gates**](https://arthurpesah.me/blog/2023-12-25-transversal-gates/){:target="_blank"}
+* 7: post [**Computing with quantum codes using transversal gates**](https://arthurpesah.me/blog/2023-12-25-transversal-gates/){:target="_blank"}
 
 In the post there's also the Pesah's coverage of how gates relates to stabilizers and how they transform Pauli operators: given you have already read about it at page 7 of Hitchhiker’s Guide, it's a good opportunity to recap the topic and check if everything is straightforward.
 Going back to transversal gates, non availability of S one on surface codes (and GENERAL non availability of S, at least without quite convoluted techniques) opens the chapter of *ingestion* and *distillation*: the post just introduces them, the paper spends more words:

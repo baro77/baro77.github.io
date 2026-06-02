@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "An opinionated path to QC brush-up 2/n"
-permalink: /qc02/
+permalink: /testqc02/
 ---
 
 ![](/images/qc2-cartoon.png)
